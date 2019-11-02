@@ -4,6 +4,10 @@
   padding: 50px 0;
 }
 
+input, select, real{
+    color: #fff;
+}
+
 .newsletter-subscribe p {
   color: #7d8285;
   line-height: 1.5;
@@ -73,4 +77,3 @@
   color: #fff;
   outline: none !important;
 }
-

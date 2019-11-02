@@ -51,7 +51,7 @@
                 <div class="form-group"><input class="form-control" type="number" name="anfang" placeholder="Anfangszahl"><input class="form-control" type="number" name="ende" placeholder="Endzahl"></div><br>
                 <!--<input type="submit" name="submit" value=" Teiler ermitteln" >-->
                <button class="btn btn-primary" type="submit" name="submit" value="Primzahl">Abschicken</button>
-            </form>
+            </form><br>
             <div class="text-center">
                 <?php
                     function Primzahl( $nummer ) {
