@@ -15,6 +15,18 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic">
     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css?h=cfa788754642173dafbd830bd7969fdb">
     <link rel="stylesheet" href="assets/css/Newsletter-Subscription-Form.css?h=c8a4c01ed2ebafc942c6c14c1f21db9a">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-151387320-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-151387320-1');
+    </script>
+    <!--END: Global site tag (gtag.js) - Google Analytics -->
+
 </head>
 
 <body>
@@ -29,7 +41,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-9 mx-auto">
-                    <h1 class="mb-5">Ein Programm zum Prüfen, ob deine Zahl eine Primzahl ist!</h1>
+                    <h1 class="mb-5">Primzahlen sind gro&szlig;artig! Hier findest du zwei Programme dazu.</h1>
                 </div>
             </div>
         </div>
@@ -39,8 +51,8 @@
         <div class="container">
             <!-- Start: Intro -->
             <div class="intro">
-                <h2 class="text-center">Primzahlfinder</h2>
-                <p class="text-center">Gib hier einfach deine gewünschte Zahl ein! Du kannst eine ganze Zahl (ohne Nachkommastelle) zwischen 0 und 1.000.000 eingeben und erhälst die Nachricht, ob diese Zahl eine Primzahl ist.</p>
+                <h2 class="text-center">Zeige mir alle Primzahlen</h2>
+                <p class="text-center">An dieser Stelle hast du die Möglichkeit, dir alle Primzahlen in einem ausgewählten Bereich anzeigen zu lassen. Gib hierfür einfach eine Anfangs- und Endzahl ein.</p>
             </div>
             <!-- End: Intro -->
             <!--<form class="form-inline" method="post">
@@ -91,8 +103,8 @@
         <div class="container">
             <!-- Start: Intro -->
             <div class="intro">
-                <h2 class="text-center">Primzahlfinder</h2>
-                <p class="text-center">Gib hier einfach deine gewünschte Zahl ein! Du kannst eine ganze Zahl (ohne Nachkommastelle) zwischen 0 und 1.000.000 eingeben und erhälst die Nachricht, ob diese Zahl eine Primzahl ist.</p>
+                <h2 class="text-center">Ist das eine Primzahl?</h2>
+                <p class="text-center">Gib hier einfach deine gewünschte Zahl ein und du erfährst, ob es sich um eine Primzahl handelt. Du kannst eine ganze Zahl (ohne Nachkommastelle) zwischen 0 und 1.000.000 eingeben.</p>
             </div>
             <!-- End: Intro -->
             <!--<form class="form-inline" method="post">
@@ -138,10 +150,10 @@
                 </div>
                 <div class="col-lg-6 my-auto h-100 text-center text-lg-right">
                     <ul class="list-inline mb-0">
-                        <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin fa-2x fa-fw"></i></a></li>
-                        <li class="list-inline-item"><a href="#"><i class="fa fa-xing fa-2x fa-fw"></i></a></li>
-                        <li class="list-inline-item"><a href="#"><i class="fa fa-github fa-2x fa-fw"></i></a></li>
-                        <li class="list-inline-item"><a href="#"><i class="fa fa-code-fork fa-2x fa-fw"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.linkedin.com/in/torbenhammes/" target="_blank"><i class="fa fa-linkedin fa-2x fa-fw"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.xing.com/profile/Torben_Hammes" target="_blank"><i class="fa fa-xing fa-2x fa-fw"></i></a></li>
+                        <li class="list-inline-item"><a href="https://github.com/TorbenHammes" target="_blank"><i class="fa fa-github fa-2x fa-fw"></i></a></li>
+                        <li class="list-inline-item"><a href="https://github.com/TorbenHammes/DB2-Hoeding-BoostrapStudio-V4" target="_blank"><i class="fa fa-code-fork fa-2x fa-fw"></i></a></li>
                     </ul>
                 </div>
             </div>
