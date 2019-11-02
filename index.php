@@ -87,7 +87,7 @@
     </div>
     <!-- End: Primzahl Form -->
     <!-- Start: Primzahl-Tester Form -->
-    <div class="newsletter-subscribe">
+    <div class="newsletter-subscribe" style="background-color: rgb(238,238,238);">
         <div class="container">
             <!-- Start: Intro -->
             <div class="intro">
