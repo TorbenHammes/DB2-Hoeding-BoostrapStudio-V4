@@ -78,7 +78,7 @@
                     ) {
                         if
                             (Primzahl($zahlen) == TRUE) {
-                                echo " $zahlen\n";
+                                echo "$zahlen\n";
                             }
                     }
                     ?>
