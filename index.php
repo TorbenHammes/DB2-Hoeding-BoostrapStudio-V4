@@ -100,7 +100,7 @@
                 <div class="form-group"><button class="btn btn-primary" type="submit">Abschicken</button></div>
             </form>-->
             <form action="" method="get" class="form-inline">
-                <input class="form-control" type="real" name="ein" size="8" value="" placeholder="Deine Wunschzahl"><br>
+                <input class="form-control" type="real" name="ein" size="8" value="" placeholder="Deine Wunschzahl" style="background-color: #000;"><br>
                 <!--<input type="submit" name="submit" value=" Teiler ermitteln" >-->
                <button class="btn btn-primary" type="submit" name="submit" value=" Teiler ermitteln">Abschicken</button>
             </form>
